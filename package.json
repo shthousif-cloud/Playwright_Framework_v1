@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:api": "playwright test api",
+    "test:web": "playwright test",
+    "test:sanity": "playwright test",
+    "test:regression": "playwright test",
+    "test:master": "playwright test",
+    "test:e2e": "playwright test",
+    "test:datadriven": "playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
