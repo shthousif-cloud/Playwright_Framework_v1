@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="8.176122000000031">
+<testsuite name="web\orangehrm-login.spec.ts" timestamp="2026-11-07T13:54:07.983Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.336" errors="0">
+<testcase name="OrangeHRM login flow @master @sanity @regression @web" classname="web\orangehrm-login.spec.ts" time="6.336">
+<system-out>
+<![CDATA[✅ OrangeHRM login completed successfully.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
