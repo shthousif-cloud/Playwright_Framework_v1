@@ -1,0 +1,1 @@
+{"attachments":[],"errors":[{"message":"afterEach hook failed: Error: page.close: spawn UNKNOWN","trace":"Error: page.close: spawn UNKNOWN\n    at C:\\Playwright_Framework_v1\\fixtures\\pageFixtures.ts:71:16","status":"broken","timestamp":1795291652736}]}

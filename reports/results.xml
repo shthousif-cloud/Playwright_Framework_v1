@@ -1,10 +1,20 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="8.176122000000031">
-<testsuite name="web\orangehrm-login.spec.ts" timestamp="2026-11-07T13:54:07.983Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.336" errors="0">
-<testcase name="OrangeHRM login flow @master @sanity @regression @web" classname="web\orangehrm-login.spec.ts" time="6.336">
-<system-out>
-<![CDATA[✅ OrangeHRM login completed successfully.
-]]>
-</system-out>
+<testsuites id="" name="" tests="3" failures="0" skipped="3" errors="0" time="0.5828229999999999">
+<testsuite name="web\orangehrm-add-employee.spec.ts" timestamp="2026-11-22T17:09:24.409Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="OrangeHRM user addition flow @master @sanity @regression @web @end-to-end" classname="web\orangehrm-add-employee.spec.ts">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="web\orangehrm-login.spec.ts" timestamp="2026-11-22T17:09:24.409Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="OrangeHRM login flow @master @sanity @regression @web" classname="web\orangehrm-login.spec.ts">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="web\user-registration.spec.ts" timestamp="2026-11-22T17:09:24.409Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Third user registration flow @master @sanity @regression @web" classname="web\user-registration.spec.ts">
+<skipped>
+</skipped>
 </testcase>
 </testsuite>
 </testsuites>
